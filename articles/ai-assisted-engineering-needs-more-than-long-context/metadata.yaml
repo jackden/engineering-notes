@@ -1,0 +1,38 @@
+schema_version: 1
+slug: "ai-assisted-engineering-needs-more-than-long-context"
+title: "AI-Assisted Engineering Needs More Than Long Context"
+subtitle: >-
+  Why AI Must Understand How a Project’s Engineering Understanding Evolves
+author: "Ruei Ming Deng"
+date: "2026-07-23"
+date_note: "Date stated in the authoritative publication Markdown."
+category: "AI-Assisted Engineering Reliability"
+tags:
+  - ai-assisted-engineering
+  - workflow-evidence
+  - engineering-reliability
+  - long-context
+  - deterministic-workflow-governance
+reading_time: "21 min"
+pdf: "AI_Assisted_Engineering_Needs_More_Than_Long_Context_Ruei_Ming_Deng.pdf"
+figures:
+  - path: "figures/Figure1_Cumulative_Engineering_Understanding.png"
+    role: primary
+    caption: >-
+      Figure 1. Everyday AI-assisted engineering produces structured workflow
+      evidence that can accumulate into durable engineering understanding.
+  - path: "figures/Figure2_Evidence_to_Enforcement.png"
+    role: primary
+    caption: >-
+      Figure 2. Explanatory evidence, deterministic hardening, and human
+      judgment serve distinct but complementary roles.
+related:
+  - prompt-is-not-a-workflow-engine
+  - producing-work-is-not-completing-workflow
+  - ai-can-produce-work-but-what-counts-as-evidence
+status: "ready"
+language: en
+platform: null
+source_url: null
+canonical_source: repository
+content_fidelity: authoritative_markdown

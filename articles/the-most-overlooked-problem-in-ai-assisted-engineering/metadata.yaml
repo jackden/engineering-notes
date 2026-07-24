@@ -1,0 +1,38 @@
+schema_version: 1
+slug: the-most-overlooked-problem-in-ai-assisted-engineering
+title: "The most overlooked problem in AI-assisted engineering"
+subtitle: null
+author: "Ruei Ming Deng"
+date: null
+date_note: "The source publication exposed only a relative age; no exact date was verified."
+category: "Engineering reliability"
+tags:
+  - AIEngineering
+  - SoftwareEngineering
+  - AICoding
+  - EngineeringWorkflow
+  - Testing
+  - CodeReview
+reading_time: "4 min"
+pdf: null
+figures:
+  - path: figures/primary.png
+    role: primary
+  - path: figures/validation_scope.png
+    role: supplementary
+    publication_status: not_verified
+  - path: figures/records_observed.png
+    role: supplementary
+    publication_status: not_verified
+related:
+  - ai-can-produce-work-but-what-counts-as-evidence
+  - completion-needs-evidence-not-confidence
+status: published
+language: en
+platform: LinkedIn
+original_platform: "LinkedIn"
+original_account: "Jackden"
+source_url: https://www.linkedin.com/posts/jackden_aiengineering-softwareengineering-aicoding-activity-7466429225592324096-EnUP
+captured_at: "2026-07-19"
+canonical_source: repository
+content_fidelity: format_normalized

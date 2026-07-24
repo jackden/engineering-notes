@@ -1,0 +1,12 @@
+title: Engineering Notes
+description: A public publication collection about AI-assisted engineering, workflow governance, and reliability.
+url: https://jackden.github.io
+baseurl: /engineering-notes
+repository: jackden/engineering-notes
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - LICENSE
+  - "**/metadata.yaml"

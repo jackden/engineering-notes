@@ -1,0 +1,30 @@
+schema_version: 1
+slug: completion-needs-evidence-not-confidence
+title: "Completion Needs Evidence, Not Confidence"
+subtitle: null
+author: "Ruei Ming Deng"
+date: null
+date_note: "The source publication exposed only a relative age; no exact date was verified."
+category: "Engineering reliability"
+tags:
+  - AIEngineering
+  - AIWorkflow
+  - EngineeringWorkflow
+  - Evidence
+reading_time: "3 min"
+pdf: null
+figures:
+  - path: figures/illustration.png
+    role: primary
+related:
+  - the-most-overlooked-problem-in-ai-assisted-engineering
+  - a-healthy-workflow-sometimes-says-no
+status: published
+language: en
+platform: LinkedIn
+original_platform: "LinkedIn"
+original_account: "Jackden"
+source_url: https://www.linkedin.com/posts/jackden_completion-needs-evidence-not-confidence-activity-7469217030576160769-2Z5s
+captured_at: "2026-07-19"
+canonical_source: repository
+content_fidelity: format_normalized

@@ -1,0 +1,34 @@
+schema_version: 1
+slug: producing-work-is-not-completing-workflow
+title: "Producing Work Is Not Completing Workflow"
+subtitle: null
+author: "Ruei Ming Deng"
+date: null
+date_note: "The source publication exposed only a relative age; no exact date was verified."
+category: "Workflow governance"
+tags:
+  - AIEngineering
+  - AgenticWorkflow
+  - SoftwareEngineering
+  - AIWorkflow
+  - DeveloperProductivity
+reading_time: "3 min"
+pdf: null
+figures:
+  - path: figures/illustration.png
+    role: primary
+  - path: figures/alternative_version_candidate.png
+    role: alternative_version
+    publication_status: not_verified
+related:
+  - prompt-is-not-a-workflow-engine
+  - ai-can-produce-work-but-what-counts-as-evidence
+status: published
+language: en
+platform: LinkedIn
+original_platform: "LinkedIn"
+original_account: "Jackden"
+source_url: https://www.linkedin.com/posts/jackden_aiengineering-agenticworkflow-softwareengineering-activity-7460297880747130880-hgzq
+captured_at: "2026-07-19"
+canonical_source: repository
+content_fidelity: format_normalized
