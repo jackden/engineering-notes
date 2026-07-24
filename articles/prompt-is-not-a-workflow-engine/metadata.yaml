@@ -1,0 +1,30 @@
+schema_version: 1
+slug: prompt-is-not-a-workflow-engine
+title: "Prompt Is Not a Workflow Engine"
+subtitle: null
+author: "Ruei Ming Deng"
+date: null
+date_note: "The source publication exposed only a relative age; no exact date was verified."
+category: "AI-assisted engineering"
+tags:
+  - AIEngineering
+  - AgenticWorkflow
+  - SoftwareEngineering
+  - AIWorkflow
+  - DeveloperProductivity
+reading_time: "4 min"
+pdf: null
+figures:
+  - path: figures/illustration.png
+    role: primary
+related:
+  - producing-work-is-not-completing-workflow
+status: published
+language: en
+platform: LinkedIn
+original_platform: "LinkedIn"
+original_account: "Jackden"
+source_url: https://www.linkedin.com/posts/jackden_aiengineering-agenticworkflow-softwareengineering-activity-7459774056867733504-NDPW
+captured_at: "2026-07-19"
+canonical_source: repository
+content_fidelity: format_normalized

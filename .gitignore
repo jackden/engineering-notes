@@ -1,0 +1,23 @@
+.DS_Store
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Common frontend build output (if a renderer is added later)
+node_modules/
+.next/
+dist/
+out/
+coverage/
+
+# Deterministic public export generated from the private source checkout
+public-export/
