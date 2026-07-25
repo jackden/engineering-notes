@@ -27,4 +27,5 @@ Each article remains readable as a repository-native Markdown file. The Pages la
 
 - [About this publication](about/)
 - [Research references](references/)
+- [Series documentation and article index](docs/)
 - [Source repository on GitHub](https://github.com/jackden/engineering-notes)

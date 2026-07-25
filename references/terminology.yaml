@@ -1,0 +1,24 @@
+schema_version: 1
+default_language: en
+supported_languages:
+  - en
+  - zh-Hant
+  - zh-Hans
+  - ja
+
+terms:
+  workflow_evidence:
+    en: Workflow Evidence
+    zh-Hant: Workflow Evidence（工作流程證據）
+  completion_gate:
+    en: Completion Gate
+    zh-Hant: Completion Gate（完成關卡）
+  engineering_understanding:
+    en: Engineering Understanding
+    zh-Hant: Engineering Understanding（工程理解）
+  deterministic_workflow_governance:
+    en: Deterministic Workflow Governance
+    zh-Hant: Deterministic Workflow Governance（確定性工作流程治理）
+  workflow_diagnostics:
+    en: Workflow Diagnostics
+    zh-Hant: Workflow Diagnostics（工作流程診斷）

@@ -1,0 +1,134 @@
+schema_version: 1
+series:
+  id: ai-assisted-engineering-reliability
+  name: AI-assisted Engineering
+  version: 1
+  default_language: en
+  source_of_truth: docs/article_index.yaml
+
+articles:
+  - id: A01
+    series_position: 1
+    title: Prompt Is Not a Workflow Engine
+    slug: prompt-is-not-a-workflow-engine
+    published: 2026-05-13
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [workflow, governance]
+    keywords: [prompt, workflow, ai]
+    summary: Prompt engineering cannot replace workflow governance.
+    research:
+      external_refs: []
+    aiwf_topics: [workflow governance, deterministic validation]
+
+  - id: A02
+    series_position: 2
+    title: Producing Work Is Not Completing Workflow
+    slug: producing-work-is-not-completing-workflow
+    published: 2026-05-23
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [workflow, completion]
+    keywords: [work product, workflow completion, validation]
+    summary: Producing work is different from completing a workflow.
+    research:
+      external_refs: []
+    aiwf_topics: [completion state, evidence]
+
+  - id: A03
+    series_position: 3
+    title: AI Can Produce Work, But What Counts as Evidence?
+    slug: ai-can-produce-work-but-what-counts-as-evidence
+    published: 2026-05-30
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [evidence, validation]
+    keywords: [workflow evidence, validation, engineering work]
+    summary: The argument moves from generated output to Workflow Evidence.
+    research:
+      external_refs: []
+    aiwf_topics: [workflow evidence, validation scope]
+
+  - id: A04
+    series_position: 4
+    title: The Most Overlooked Problem in AI-Assisted Engineering
+    slug: the-most-overlooked-problem-in-ai-assisted-engineering
+    published: 2026-06-06
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [engineering reliability, governance]
+    keywords: [ai-assisted engineering, workflow, governance]
+    summary: The overlooked problem is workflow governance, not model capability alone.
+    research:
+      external_refs: []
+    aiwf_topics: [workflow governance, engineering reliability]
+
+  - id: A05
+    series_position: 5
+    title: Completion Needs Evidence, Not Confidence
+    slug: completion-needs-evidence-not-confidence
+    published: 2026-06-14
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [completion, evidence]
+    keywords: [completion, evidence, confidence]
+    summary: Completion claims should be supported by evidence rather than confidence.
+    research:
+      external_refs: []
+    aiwf_topics: [completion gate, evidence]
+
+  - id: A06
+    series_position: 6
+    title: A Healthy Workflow Sometimes Says No
+    slug: a-healthy-workflow-sometimes-says-no
+    published: 2026-06-27
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+    category: [workflow governance, engineering reliability]
+    keywords: [fail closed, completion gate, workflow rejection]
+    summary: A healthy workflow refuses completion when the evidence is insufficient.
+    research:
+      external_refs: []
+    aiwf_topics: [fail closed, completion gate]
+
+  - id: A07
+    series_position: 7
+    title: AI-Assisted Engineering Needs More Than Long Context
+    slug: ai-assisted-engineering-needs-more-than-long-context
+    published: 2026-07-24
+    status: published
+    channels:
+      linkedin: published
+      github_pages: published
+      zh-Hant: not_published
+      pdf: available
+    category: [ai-assisted engineering reliability, long context]
+    keywords: [long context, workflow evidence, correction history, runtime enforcement]
+    summary: Long context cannot replace Workflow Evidence, correction history, or runtime enforcement.
+    research:
+      external_refs: [TRACE, TRACER, From Papers to Progress]
+    aiwf_topics: [workflow evidence, deterministic workflow governance, runtime enforcement]

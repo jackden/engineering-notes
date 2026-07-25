@@ -11,6 +11,7 @@ The repository keeps the publication unit readable without the website:
 - `about/` describes the repository and its boundaries.
 - `series/` contains series-level narrative structure.
 - `references/` contains shared research references.
+- `docs/article_index.yaml` is the source of truth for stable article IDs, series order, publication dates, and channel status.
 - `assets/` is reserved for genuinely shared images, figures, and PDFs.
 
 ## Article loading contract
@@ -18,6 +19,8 @@ The repository keeps the publication unit readable without the website:
 A site or static renderer should enumerate the immediate child directories of `articles/`, keep directories that contain both `README.md` and `metadata.yaml`, parse the metadata, and render `README.md` as the article body. The `figures` and `pdf` fields in `metadata.yaml` are relative to that article directory. A missing or null `pdf` means that no download link should be rendered.
 
 The repository also includes a small, repository-native Jekyll layer for GitHub Pages. It provides navigation and article routes while keeping each `README.md` as the canonical article body.
+
+Series maintenance documents live under `docs/`: the article index, series overview, publishing log, writing guidelines, and roadmap.
 
 ## Series articles
 
