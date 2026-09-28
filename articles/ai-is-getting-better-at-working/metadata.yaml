@@ -1,0 +1,32 @@
+schema_version: 1
+slug: ai-is-getting-better-at-working
+content_type: field_note
+editorial_group: "Research / Field Notes"
+title: "AI Is Getting Better at Working. The Engineering Problem Is Changing Too."
+subtitle: "Some observations on compositional AI systems, execution provenance, and the next set of problems in AI-assisted engineering."
+author: "Ruei Ming Deng"
+date: null
+date_note: "No publication date was supplied with the approved article source."
+category: "Research / Field Notes"
+tags:
+  - compositional-ai-systems
+  - execution-provenance
+  - verification
+  - system-centric-engineering
+  - human-review
+reading_time: "14 min"
+pdf: null
+figures: []
+related:
+  - ai-assisted-engineering-needs-more-than-long-context
+status: "published"
+language: en
+available_languages:
+  - en
+platform: null
+source_url: null
+canonical_source: approved_task_input
+content_fidelity: approved_markdown
+source_verification: passed
+series: null
+series_position: null

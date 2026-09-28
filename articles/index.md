@@ -15,3 +15,9 @@ Each article is a self-contained publication unit with a canonical `README.md`, 
 5. [Completion Needs Evidence, Not Confidence](completion-needs-evidence-not-confidence/)
 6. [A Healthy Workflow Sometimes Says No](a-healthy-workflow-sometimes-says-no/)
 7. [AI-Assisted Engineering Needs More Than Long Context](ai-assisted-engineering-needs-more-than-long-context/)
+
+## Research / Field Notes
+
+Observations on emerging AI engineering practices, architectures, research, and reliability problems.
+
+- [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](ai-is-getting-better-at-working/)

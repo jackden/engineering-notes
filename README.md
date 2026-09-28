@@ -34,6 +34,12 @@ Series maintenance documents live under `docs/`: the article index, series overv
 
 The series map is in [`series/ai-assisted-engineering-reliability.md`](series/ai-assisted-engineering-reliability.md).
 
+## Research / Field Notes
+
+Observations on emerging AI engineering practices, architectures, research, and reliability problems.
+
+- [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](articles/ai-is-getting-better-at-working/)
+
 ## Public content boundary
 
 The top-level `articles/` tree is the public publication model. Each article directory is self-contained: its README is the canonical body, its metadata is the catalog record, and its figures are article-owned assets.

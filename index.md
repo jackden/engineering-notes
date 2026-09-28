@@ -21,6 +21,12 @@ This series asks how AI-assisted engineering can remain reviewable and trustwort
 
 Read the [series overview](series/) or browse [all articles](articles/).
 
+## Research / Field Notes
+
+Observations on emerging AI engineering practices, architectures, research, and reliability problems.
+
+- [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](articles/ai-is-getting-better-at-working/)
+
 ## Publication model
 
 Each article remains readable as a repository-native Markdown file. The Pages layer provides a navigable presentation of that same content; it does not create a second copy of the article body.
