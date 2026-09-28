@@ -2,6 +2,8 @@
 
 *Some observations on compositional AI systems, execution provenance, and the next set of problems in AI-assisted engineering.*
 
+*Published: September 28, 2026*
+
 Over the past few months, I have been following developments in coding agents, model releases, AI engineering systems, and verification research. Many of these developments appear unrelated when viewed individually. Some teams are building more capable coding agents. Others are developing smaller, more specialized models. Some are improving computer use, while others are exploring collaboration between large and small models or investigating how AI-generated work can be verified.
 
 Taken together, however, these developments seem to point toward a broader shift. **AI is not only getting better at generating outputs. AI systems are getting better at doing work. At the same time, “AI” increasingly looks less like a single model and more like a system composed of models, tools, agents, execution environments, and verification mechanisms.** If this direction continues, the engineering problems around AI-assisted work may change with it.
