@@ -2,6 +2,8 @@
 
 *When a diagnosis becomes an input to the agent’s next run*
 
+*Published: November 13, 2026*
+
 In agents that use reflection and memory, an explanation of a failure may do more than appear in a postmortem. It can become part of the context that shapes the next plan and the next execution. *Reflexion*, for example, converts task feedback into textual reflections and stores them in episodic memory for later attempts, without updating model weights. The authors report improvements on the tasks they evaluated. [R1]
 
 That makes “a trace is not a diagnosis” more than a debugging reminder. If an insufficiently supported explanation is accepted as guidance simply because a task eventually passed, a decision about the current result has quietly become a decision about future behavior.
