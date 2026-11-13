@@ -156,10 +156,10 @@ field_notes:
     category: Research / Field Notes
     language: en
     available_languages: [en]
-    published: null
-    status: pending_deployment
+    published: 2026-11-13
+    status: published
     channels:
       linkedin: not_published
-      github_pages: pending_deployment
+      github_pages: published
       zh-Hant: not_published
       pdf: not_available

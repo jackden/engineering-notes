@@ -5,8 +5,8 @@ editorial_group: "Research / Field Notes"
 title: "A Trace Is Not a Diagnosis"
 subtitle: "When a diagnosis becomes an input to the agent’s next run"
 author: "Ruei Ming Deng"
-date: null
-date_note: "The first publication date is recorded after verification on GitHub Pages."
+date: "2026-11-13"
+date_note: "First published to GitHub Pages on 2026-11-13 (Asia/Shanghai)."
 category: "Research / Field Notes"
 tags:
   - execution-traces
@@ -19,7 +19,7 @@ pdf: null
 figures: []
 related:
   - ai-assisted-engineering-needs-more-than-long-context
-status: "pending_deployment"
+status: "published"
 language: en
 available_languages:
   - en

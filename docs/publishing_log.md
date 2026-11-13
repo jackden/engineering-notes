@@ -18,6 +18,6 @@ This log records publication status. Series dates follow the supplied editorial 
 
 | Article | First published | LinkedIn | GitHub Pages | Traditional Chinese | PDF |
 | --- | --- | --- | --- | --- | --- |
-| [A Trace Is Not a Diagnosis](../articles/a-trace-is-not-a-diagnosis/) | — | not published | pending deployment | not published | not available |
+| [A Trace Is Not a Diagnosis](https://jackden.github.io/engineering-notes/articles/a-trace-is-not-a-diagnosis/) | 2026-11-13 | not published | published | not published | not available |
 
 The machine-readable source of truth is [`article_index.yaml`](article_index.yaml). This Markdown table is the human-readable publication view.
