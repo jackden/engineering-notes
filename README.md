@@ -38,6 +38,7 @@ The series map is in [`series/ai-assisted-engineering-reliability.md`](series/ai
 
 Observations on emerging AI engineering practices, architectures, research, and reliability problems.
 
+- [A Trace Is Not a Diagnosis](articles/a-trace-is-not-a-diagnosis/)
 - [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](articles/ai-is-getting-better-at-working/)
 
 ## Public content boundary

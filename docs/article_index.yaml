@@ -132,3 +132,34 @@ articles:
     research:
       external_refs: [TRACE, TRACER, From Papers to Progress]
     aiwf_topics: [workflow evidence, deterministic workflow governance, runtime enforcement]
+
+field_notes:
+  - slug: ai-is-getting-better-at-working
+    title: AI Is Getting Better at Working. The Engineering Problem Is Changing Too.
+    author: Ruei Ming Deng
+    content_type: field_note
+    category: Research / Field Notes
+    language: en
+    available_languages: [en]
+    published: 2026-09-28
+    status: published
+    channels:
+      linkedin: unknown
+      github_pages: published
+      zh-Hant: not_published
+      pdf: not_available
+
+  - slug: a-trace-is-not-a-diagnosis
+    title: A Trace Is Not a Diagnosis
+    author: Ruei Ming Deng
+    content_type: field_note
+    category: Research / Field Notes
+    language: en
+    available_languages: [en]
+    published: null
+    status: pending_deployment
+    channels:
+      linkedin: not_published
+      github_pages: pending_deployment
+      zh-Hant: not_published
+      pdf: not_available

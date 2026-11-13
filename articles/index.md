@@ -20,4 +20,5 @@ Each article is a self-contained publication unit with a canonical `README.md`, 
 
 Observations on emerging AI engineering practices, architectures, research, and reliability problems.
 
+- [A Trace Is Not a Diagnosis](a-trace-is-not-a-diagnosis/)
 - [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](ai-is-getting-better-at-working/)

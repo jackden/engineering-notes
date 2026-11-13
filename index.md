@@ -25,6 +25,7 @@ Read the [series overview](series/) or browse [all articles](articles/).
 
 Observations on emerging AI engineering practices, architectures, research, and reliability problems.
 
+- [A Trace Is Not a Diagnosis](articles/a-trace-is-not-a-diagnosis/)
 - [AI Is Getting Better at Working. The Engineering Problem Is Changing Too.](articles/ai-is-getting-better-at-working/)
 
 ## Publication model

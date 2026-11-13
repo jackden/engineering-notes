@@ -1,0 +1,32 @@
+schema_version: 1
+slug: a-trace-is-not-a-diagnosis
+content_type: field_note
+editorial_group: "Research / Field Notes"
+title: "A Trace Is Not a Diagnosis"
+subtitle: "When a diagnosis becomes an input to the agent’s next run"
+author: "Ruei Ming Deng"
+date: null
+date_note: "The first publication date is recorded after verification on GitHub Pages."
+category: "Research / Field Notes"
+tags:
+  - execution-traces
+  - diagnosis
+  - agent-memory
+  - workflow-evidence
+  - evidence-reuse
+reading_time: "14 min"
+pdf: null
+figures: []
+related:
+  - ai-assisted-engineering-needs-more-than-long-context
+status: "pending_deployment"
+language: en
+available_languages:
+  - en
+platform: null
+source_url: null
+canonical_source: approved_task_input
+content_fidelity: approved_markdown
+source_verification: passed
+series: null
+series_position: null

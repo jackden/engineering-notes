@@ -1,6 +1,6 @@
 # Publishing Log
 
-This log records the current publication state of the series. The dates follow the supplied editorial timeline; file availability is checked against the public export.
+This log records publication status. Series dates follow the supplied editorial timeline, and file availability is checked against the public export.
 
 | ID | Published | LinkedIn | GitHub Pages | Traditional Chinese | PDF |
 | --- | --- | --- | --- | --- | --- |
@@ -13,5 +13,11 @@ This log records the current publication state of the series. The dates follow t
 | A07 | 2026-07-24 | published* | published | not published | available |
 
 \* The A07 LinkedIn URL is not yet recorded in the article metadata. The publication date is retained from the supplied timeline.
+
+## Research / Field Notes
+
+| Article | First published | LinkedIn | GitHub Pages | Traditional Chinese | PDF |
+| --- | --- | --- | --- | --- | --- |
+| [A Trace Is Not a Diagnosis](../articles/a-trace-is-not-a-diagnosis/) | — | not published | pending deployment | not published | not available |
 
 The machine-readable source of truth is [`article_index.yaml`](article_index.yaml). This Markdown table is the human-readable publication view.
